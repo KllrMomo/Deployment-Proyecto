@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/KllrMomo/Deployment-Proyecto/issues"
   },
-  "homepage": "https://github.com/KllrMomo/Deployment-Proyecto#readme"
+  "homepage": "https://github.com/KllrMomo/Deployment-Proyecto#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.2"
+  },
+  "devDependencies": {}
 }
